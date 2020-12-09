@@ -1,0 +1,11 @@
+# edit ignore file
+./*
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../:%USERPROFILE%\Documents\PycharmProjects\SubclassingAPITest\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
