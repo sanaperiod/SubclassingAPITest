@@ -1,3 +1,3 @@
 # SubclassingAPITest
 Subclassing API summary Test
-https://note.com/embed/notes/nf9f2282b2ee8
+https://note.com/sana_period/n/nf9f2282b2ee8
