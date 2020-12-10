@@ -34,3 +34,10 @@ class ISubclassingSummary:
 #         tmp_m = Model(inputs=tmp_x, outputs=self.call(tmp_x), name='tmp_model')
 #         tmp_m.summary()
 #         del tmp_x, tmp_m
+# 
+# def my_summary(input_shape, model:ISubclassingSummaryPy39):
+#     tmp_x = Input(shape=input_shape, name='tmp_input')
+#     # noinspection PyUnresolvedReferences
+#     tmp_m = Model(inputs=tmp_x, outputs=model.call(tmp_x), name='tmp_model')
+#     tmp_m.summary()
+#     del tmp_x, tmp_m
